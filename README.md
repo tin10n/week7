@@ -2,10 +2,10 @@
 
 ⋅˚📈⋆ ˚💡｡⋆୨୧˚✎˚ ⋅ Let's Start Computing! ⋅˚📈⋆ ˚💡｡⋆୨୧˚✎˚ ⋅
 
-✖️➗➕➖🟰 This is my submission for the Guided Inquiry Week 7 assignment, and it features a cute pocket calculator. ✖️➗➕➖🟰
+✖️➗➕➖🟰 This is my submission for the Guided Inquiry Week 7 assignment, and it features a cute pocket calculator. 🟰➖➕➗✖️
 
 ** ** What’s in this project? ** **
-This repository contains the core files to usse the Pocket Calculator, and it’s hosted on Vercel where you can use it directly in your browser. 
+This repository contains the core files to use the Pocket Calculator, and it’s hosted on Vercel where you can use it directly in your browser. 
 
 Here's an overview of the files and what they do:
 
@@ -16,7 +16,7 @@ Files in this repository:
 
 - style.css: Includes the styles for the calculator. It also contains links to fonts and background images. The page is fully responsive, so it looks great on any device.
 
-- index.js: The heart of the calculator! This JavaScript file contains the core computing logic. It handles how each button is inputed. You’ll find comments throughout to explain how each part works.
+- index.js: The heart of the calculator! This JavaScript file contains the core computing logic. It handles how each button is inputted. You’ll find comments throughout to explain how each part works.
 
 
 You can also access the pocket calculator through the Vercel link.
@@ -28,7 +28,7 @@ Throughout this project, I learned several important JavaScript and web developm
 
 Key Concepts I Learned:
 - DOM Manipulation:
-DOM Manipulation is used to retrive elements by its id.
+DOM Manipulation is used to retrieve elements by its id.
 
 - Event Handling (.forEach &addEventListener):
 Event handling is used to ensure that functionality works for keyboard and by clicking.
@@ -44,7 +44,7 @@ Error handling is used to catch errors during computing. For example, in javascr
 
 
 ** ** How to Use: ** **
-- Click on one of the buttons to start computing or type it in on keyboard.
+- Click on one of the buttons to start computing or type it using the keyboard.
 
 
 ** ** What’s Next? ** **
