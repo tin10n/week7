@@ -1,0 +1,67 @@
+/* CSS Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(228, 243, 252);
+  min-height: 100vh;
+  max-width: 100%;
+  place-items: center;
+}
+
+.container {
+  position: relative;
+  max-width: 300px;
+  width: 100%;
+  border-radius: 12px;
+  padding: 20px 20px;
+  background: #fdfbfb;
+  margin: 200px;
+}
+
+#displayBox {
+  height: 80px;
+  width: 100%;
+  margin: 10px 5px;
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+  text-align: right;
+}
+
+.buttons {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.buttons button {
+  padding: 10px;
+  border-radius: 6px;
+  border: none;
+  background-color: rgb(171, 216, 255);
+}
+
+.operate button {
+  background-color: rgb(255, 28, 28);
+}
+
+.buttons button:hover {
+  cursor: pointer;
+  transform: scale(0.92);
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
