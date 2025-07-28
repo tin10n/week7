@@ -49,8 +49,8 @@ body {
   background-color: rgb(171, 216, 255);
 }
 
-.operate button {
-  background-color: rgb(255, 28, 28);
+.operate {
+  color: rgb(33, 33, 240);
 }
 
 .buttons button:hover {
