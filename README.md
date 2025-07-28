@@ -31,11 +31,16 @@ Key Concepts I Learned:
 DOM Manipulation is used to retrive elements by its id.
 
 - Event Handling (.forEach &addEventListener):
-Event haandling is used to ensure that functionality works for keyboard and by clicking.
+Event handling is used to ensure that functionality works for keyboard and by clicking.
 
-- Conditionals (if, else, switch):
-Conditional statements are used to determine the result.
+- Conditionals (if, else if, else):
+Conditional statements are used to handle different inputs. When a user presses a button, the code checks whether the key is a number, operator, or special function, and how it should be computed.
 
+- String Manipulation:
+String Manipulation is used in several ways. Substring allows the removal of the last character from the output when DEL or backspace is used.
+
+- Error Handling:
+Error handling is used to catch errors during computing. For example, in javascript dividing by 0 results in 'Infinity,' but it is supposed to be Undefined. Therefore, in the calculator, it will display 'Error' instead.
 
 
 ** ** How to Use: ** **
